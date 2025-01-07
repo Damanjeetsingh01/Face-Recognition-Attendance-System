@@ -17,7 +17,7 @@ PyCharm -Latest Version
 3) face-recognition,
 4) numpy,
 5) opencv-python
-
+Note- Add a ImageAttendance named folder and add the labeled dataset there.
 
 
 *Modules:
